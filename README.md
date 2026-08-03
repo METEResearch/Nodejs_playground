@@ -1,25 +1,3 @@
-![Nodejs_playground](https://socialify.git.ci/walidbosso/Nodejs_playground/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
-
-<p align="center">
-<a href="https://github.com/walidbosso/Nodejs_playground">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
-</p>
-<div align="center">
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Nodejs_playground)
-
-  <p align="center">
-<a href="https://github.com/walidbosso/Nodejs_playground">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FNodejs_playground&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
-</p>
-
-<a href="https://github.com/walidbosso/Nodejs_playground">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-  <a/>
-</a>
-
-
-<br/>
 
 # Node.js Playground
 </div>
@@ -55,7 +33,7 @@ Welcome to the Node.js Playground! This project demonstrates the creation of a s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/walidbosso/Nodejs_playground.git
+   git clone https://github.com/ExploAi/Nodejs_playground.git
    ```
 
 2. Navigate to the project directory:
@@ -98,7 +76,7 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/Nodejs_playground/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/ExploAi/Nodejs_playground/issues) page.
 
 Thank you for exploring the Node.js Playground! 🚀
 
@@ -117,7 +95,7 @@ Thank you for exploring the Node.js Playground! 🚀
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/Nodejs_playground](http://reporoster.com/stars/dark/walidbosso/Nodejs_playground)](https://github.com/walidbosso/Nodejs_playground/stargazers)
+[![Stargazers repo roster for @ExploAi/Nodejs_playground](http://reporoster.com/stars/dark/ExploAi/Nodejs_playground)](https://github.com/ExploAi/Nodejs_playground/stargazers)
 
 
 
@@ -127,14 +105,14 @@ Thank you for exploring the Node.js Playground! 🚀
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/Nodejs_playground](http://reporoster.com/forks/dark/walidbosso/Nodejs_playground)](https://github.com/walidbosso/Nodejs_playground/network/members)
+[![Forkers repo roster for @ExploAi/Nodejs_playground](http://reporoster.com/forks/dark/ExploAi/Nodejs_playground)](https://github.com/ExploAi/Nodejs_playground/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Nodejs_playground"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://contrib.rocks/image?repo=ExploAi/Nodejs_playground"/>
 </a>
 
 
@@ -143,35 +121,29 @@ Thank you for exploring the Node.js Playground! 🚀
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Nodejs_playground?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Nodejs_playground?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/Nodejs_playground?style=social)
+![GitHub License](https://img.shields.io/github/license/ExploAi/Nodejs_playground?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
-
-<br/>
-
-
-<p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
