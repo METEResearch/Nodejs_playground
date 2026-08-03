@@ -83,7 +83,7 @@ Thank you for exploring the Node.js Playground! 🚀
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+> >  <br/> &copy; *by Explo* <br/>  
 ----------------------
 
 <details>
