@@ -33,7 +33,7 @@ Welcome to the Node.js Playground! This project demonstrates the creation of a s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ExploAi/Nodejs_playground.git
+   git clone https://github.com/METEResearch/Nodejs_playground.git
    ```
 
 2. Navigate to the project directory:
@@ -76,14 +76,14 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/ExploAi/Nodejs_playground/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/METEResearch/Nodejs_playground/issues) page.
 
 Thank you for exploring the Node.js Playground! 🚀
 
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by Explo* <br/>  
+> >  <br/> &copy; *by METE Research* <br/>  
 ----------------------
 
 <details>
@@ -95,7 +95,7 @@ Thank you for exploring the Node.js Playground! 🚀
 
 <div align="center">
 
-[![Stargazers repo roster for @ExploAi/Nodejs_playground](http://reporoster.com/stars/dark/ExploAi/Nodejs_playground)](https://github.com/ExploAi/Nodejs_playground/stargazers)
+[![Stargazers repo roster for @METE Research/Nodejs_playground](http://reporoster.com/stars/dark/METEResearch/Nodejs_playground)](https://github.com/METEResearch/Nodejs_playground/stargazers)
 
 
 
@@ -105,14 +105,14 @@ Thank you for exploring the Node.js Playground! 🚀
 
 <div align="center" >
 
-[![Forkers repo roster for @ExploAi/Nodejs_playground](http://reporoster.com/forks/dark/ExploAi/Nodejs_playground)](https://github.com/ExploAi/Nodejs_playground/network/members)
+[![Forkers repo roster for @METE Research/Nodejs_playground](http://reporoster.com/forks/dark/METEResearch/Nodejs_playground)](https://github.com/METEResearch/Nodejs_playground/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://contrib.rocks/image?repo=ExploAi/Nodejs_playground"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://contrib.rocks/image?repo=METEResearch/Nodejs_playground"/>
 </a>
 
 
@@ -121,29 +121,29 @@ Thank you for exploring the Node.js Playground! 🚀
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Nodejs_playground?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/METEResearch/Nodejs_playground?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/ExploAi/Nodejs_playground?style=social)
+![GitHub License](https://img.shields.io/github/license/METEResearch/Nodejs_playground?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/METE Research"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=METE Research&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
